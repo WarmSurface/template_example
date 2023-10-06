@@ -28,7 +28,7 @@ body{
 
 /* Header START */
 .poster{
-    background-image: url("images/main-poster.jpg");
+    background-image: url("https://github.com/WarmSurface/template_example/blob/main/images/main-poster.jpg");
     background-size: cover;
     background-position:center;
     width:88vw;

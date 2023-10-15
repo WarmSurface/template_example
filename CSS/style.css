@@ -108,7 +108,7 @@ body{
 
 /* Search START */
 .searchbar{
-    background-image: url("./images/search-bg.jpg");
+    background-image: url("../images/search-bg.jpg");
     background-size: cover;
     background-position:center;
     background-attachment: fixed;

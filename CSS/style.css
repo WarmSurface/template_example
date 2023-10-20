@@ -311,7 +311,7 @@ body{
 /* Footer END */
 
 /* media quaries */
-@media (min-width:412px) and (max-width:480px){
+@media (min-width:412px), (max-width:480px){
     body{
         font-family:'Lucida Grande';
         margin: auto;
